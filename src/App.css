@@ -1,0 +1,88 @@
+.reparkingRow {
+  border-top: 1px solid rgb(212, 211, 211);
+  border-bottom: 1px solid rgb(212, 211, 211);;
+}
+
+.paginationTop {
+  margin-bottom: 0;
+}
+
+.textColor {
+  color: #2398EC;
+}
+
+p {
+  margin-bottom: 1px !important;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.card {
+  border-color: #A3DEFF !important;
+  border-radius: 15px !important;
+  background-color: #FBFBFB !important;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+body {
+  background-color: #FBFBFB !important;
+}
+
+#dropdown-custom-2{
+  background-color: #C5C5C5 !important;
+  border-color: #C5C5C5 !important;
+}
+
+.imgBackground {
+  background-color: #2398EC !important;
+}
+
+.blockedCard {
+  background-color: #E5E5E5 !important;
+}
+
+.overViewNumber {
+  background-color: #2398EC !important;
+  border-color: #2398EC !important;
+  border-radius: 12px;
+  font-size:xx-large;
+}
+
+.overViewNumber p {
+  color:white !important;
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+}
+
+.paragraphOverview {
+  font-size: large;
+}
+
+.totalRemaining {
+  font-size: xx-large;
+  color: white;
+}
+
+.backgroundBlue {
+  background-color: #2398EC !important;
+}
+
+.remainingNormal {
+  color:white
+}
+
+.bigNumberDisplay {
+  font-size: xx-large;
+}
+
+.welcomeMessage {
+  font-size: large;
+}
+
+.goBack {
+  border-top: 1px solid rgb(212, 211, 211);
+  border-bottom: 1px solid rgb(212, 211, 211);;
+}
+
+.confirmationClass {
+  background-color: #2398EC !important;
+  color: white;
+}
